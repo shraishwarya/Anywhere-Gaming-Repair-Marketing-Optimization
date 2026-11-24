@@ -1,0 +1,11 @@
+media_channel,age_group,monthly_spend_usd,impressions,engagements,cost_per_thousand_impressions,notes
+Podcast,18-34,1200,80000,6400,15.0,Gaming podcast sponsorship
+TV,18-34,1800,60000,2400,30.0,Local TV spot
+Social Media,18-34,900,75000,6000,12.0,Short video campaign
+ Podcast ,18-34,700,50000,4500,14.0,Whitespace needs trimming
+TV,35-54,1500,50000,1500,30.0,Outside target audience
+Social Media,18-34,500,40000,3600,,Missing CPM; calculate from spend/impressions
+Podcast,18-34,1000,70000,5600,14.2857,Gaming creator read
+Social Media,18-34,1100,90000,7200,12.2222,Retargeting campaign
+TV,18-34,2000,65000,2600,30.7692,Premium local placement
+Podcast,25-34,600,42000,3360,14.2857,Subset of target audience
